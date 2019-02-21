@@ -1,0 +1,11 @@
+{
+    "sheets": [
+        { 
+            "coordinatesFileName": "img.plist",
+            "textureFileName": "img.png",
+            "width": 3930.0,
+            "height": 1514.0
+        }
+    ],
+    "signature": "83bcc33064073b0b8245b0b21b8b8ee44dacaf0b"
+}

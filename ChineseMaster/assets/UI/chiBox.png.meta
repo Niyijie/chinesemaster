@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dbd91cbf-9dfc-49e6-a7c4-43c8387c064f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chiBox": {
+      "ver": "1.0.3",
+      "uuid": "f72df0b2-6529-4506-95cc-bf256bd840b6",
+      "rawTextureUuid": "dbd91cbf-9dfc-49e6-a7c4-43c8387c064f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -87.5,
+      "offsetY": 386.5,
+      "trimX": 761,
+      "trimY": 226,
+      "width": 193,
+      "height": 192,
+      "rawWidth": 1890,
+      "rawHeight": 1417,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

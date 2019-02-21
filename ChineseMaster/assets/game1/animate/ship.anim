@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ship",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.25,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 59
+        },
+        {
+          "frame": 1,
+          "value": 151
+        }
+      ]
+    }
+  },
+  "events": []
+}

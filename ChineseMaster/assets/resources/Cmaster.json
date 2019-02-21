@@ -1,0 +1,642 @@
+[
+    {
+        "word": "sky",
+        "chinese": "天",
+        "terms": "白天",
+        "trans1": "day",
+        "sentence": "前几天",
+        "trans2": "A few days ago",
+        "res": "sky",
+        "spell": "[tiān]"
+    },
+    {
+        "word": "land",
+        "chinese": "地",
+        "terms": "地球",
+        "trans1": "the earth",
+        "sentence": "全国各地",
+        "trans2": "All parts of the country",
+        "res": "land",
+        "spell": "[dì]"
+    },
+    {
+        "word": "people",
+        "chinese": "人",
+        "terms": "人群",
+        "trans1": "crowd",
+        "sentence": "这里的人很好。",
+        "trans2": "The people here are very nice.",
+        "res": "people",
+        "spell": "[rén]"
+    },
+    {
+        "word": "mountain",
+        "chinese": "山",
+        "terms": "山谷",
+        "trans1": "vally",
+        "sentence": "那座山很高。",
+        "trans2": "That mountain is quite high.",
+        "res": "mountain",
+        "spell": "[shān]"
+    },
+    {
+        "word": "gold",
+        "chinese": "金",
+        "terms": "金属",
+        "trans1": "metals",
+        "sentence": "鸣金收兵。",
+        "trans2": "All the gongs and drums are beating.",
+        "res": "gold",
+        "spell": "[jīn]"
+    },
+    {
+        "word": "wood",
+        "chinese": "木",
+        "terms": "树木",
+        "trans1": "tree",
+        "sentence": "独木不成林。",
+        "trans2": "One tree does not make a forest.",
+        "res": "wood",
+        "spell": "[mù]"
+    },
+    {
+        "word": "water",
+        "chinese": "水",
+        "terms": "水果",
+        "trans1": "fruit",
+        "sentence": "水是生命之源。",
+        "trans2": "Water is the source of life.",
+        "res": "water",
+        "spell": "[shuǐ]"
+    },
+    {
+        "word": "fire",
+        "chinese": "火",
+        "terms": "火焰",
+        "trans1": "flame",
+        "sentence": "玩火者必自焚。",
+        "trans2": "He who plays with fire gets burned.",
+        "res": "fire",
+        "spell": "[huǒ]"
+    },
+    {
+        "word": "soil",
+        "chinese": "土",
+        "terms": "领土",
+        "trans1": "territory",
+        "sentence": "钓鱼岛是中国的领土。",
+        "trans2": "Diaoyu Dao is the territory of China.",
+        "res": "soil",
+        "spell": "[tǔ]"
+    },
+    {
+        "word": "mouth",
+        "chinese": "口",
+        "terms": "出口",
+        "trans1": "exit",
+        "sentence": "祸从口出。",
+        "trans2": "Out of the mouth comes evil.",
+        "res": "mouth",
+        "spell": "[kǒu]"
+    },
+    {
+        "word": "ear",
+        "chinese": "耳",
+        "terms": "银耳",
+        "trans1": "tremella",
+        "sentence": "左耳进右耳出。",
+        "trans2": "go in one ear and out the other",
+        "res": "ear",
+        "spell": "[ěr]"
+    },
+    {
+        "word": "eye",
+        "chinese": "目",
+        "terms": "目录",
+        "trans1": "catalogue",
+        "sentence": "他完成了项目。",
+        "trans2": "He has finished the item.",
+        "res": "eye",
+        "spell": "[mù]"
+    },
+    {
+        "word": "upper",
+        "chinese": "上",
+        "terms": "上课",
+        "trans1": "go to class",
+        "sentence": "上星期三",
+        "trans2": "last Wednesday",
+        "res": "upper",
+        "spell": "[shàng]"
+    },
+    {
+        "word": "below",
+        "chinese": "下",
+        "terms": "树下",
+        "trans1": "under the tree",
+        "sentence": "下定义",
+        "trans2": "give a definition",
+        "res": "below",
+        "spell": "[xià]"
+    },
+    {
+        "word": "the left",
+        "chinese": "左",
+        "terms": "向左",
+        "trans1": "different",
+        "sentence": "靠左行。",
+        "trans2": "Keep to the left.",
+        "res": "left",
+        "spell": "[zuǒ]"
+    },
+    {
+        "word": "the right",
+        "chinese": "右",
+        "terms": "向右",
+        "trans1": "turn to the right",
+        "sentence": "无出其右。",
+        "trans2": "Second to none.",
+        "res": "right",
+        "spell": "[yòu]"
+    },
+    {
+        "word": "middle",
+        "chinese": "中",
+        "terms": "中国",
+        "trans1": "China",
+        "sentence": "鱼在水中。",
+        "trans2": "The fish is in the water.",
+        "res": "middle",
+        "spell": "[zhōng]"
+    },
+    {
+        "word": "east",
+        "chinese": "东",
+        "terms": "东方",
+        "trans1": "orient",
+        "sentence": "中国东临太平洋。",
+        "trans2": "China faces the Pacific on the east.",
+        "res": "east",
+        "spell": "[dōng]"
+    },
+    {
+        "word": "west",
+        "chinese": "西",
+        "terms": "西洋",
+        "trans1": "western",
+        "sentence": "太阳西沉。",
+        "trans2": "The sun falls to the west.",
+        "res": "west",
+        "spell": "[xī]"
+    },
+    {
+        "word": "south",
+        "chinese": "南",
+        "terms": "指南针",
+        "trans1": "compass",
+        "sentence": "这屋子朝南。",
+        "trans2": "The house faces towards the south.",
+        "res": "south",
+        "spell": "[nán]"
+    },
+    {
+        "word": "north",
+        "chinese": "北",
+        "terms": "北极",
+        "trans1": "arctic",
+        "sentence": "败北",
+        "trans2": "be defeated",
+        "res": "north",
+        "spell": "[běi]"
+    },
+    {
+        "word": "spring",
+        "chinese": "春",
+        "terms": "春联",
+        "trans1": "Spring couplets",
+        "sentence": "春播秋种",
+        "trans2": "sow in spring and reap in autumn",
+        "res": "spring",
+        "spell": "[chūn]"
+    },
+    {
+        "word": "summer",
+        "chinese": "夏",
+        "terms": "夏朝",
+        "trans1": "the Xia Dynasty",
+        "sentence": "一燕不成夏。",
+        "trans2": "One swallow does not make a summer.",
+        "res": "summer",
+        "spell": "[xià]"
+    },
+    {
+        "word": "autumn",
+        "chinese": "秋",
+        "terms": "深秋",
+        "trans1": "late autumn",
+        "sentence": "千秋万代",
+        "trans2": "for thousands of years",
+        "res": "autumn",
+        "spell": "[qiū]"
+    },
+    {
+        "word": "winter",
+        "chinese": "冬",
+        "terms": "冬眠",
+        "trans1": "hibernation",
+        "sentence": "冬去春来。",
+        "trans2": "Spring follows winter.",
+        "res": "winter",
+        "spell": "[dōng]"
+    },
+    {
+        "word": "tree",
+        "chinese": "树",
+        "terms": "建树",
+        "trans1": "achievement",
+        "sentence": "植树造林",
+        "trans2": "Plant trees",
+        "res": "tree",
+        "spell": "[shù]"
+    },
+    {
+        "word": "thunder",
+        "chinese": "雷",
+        "terms": "鱼雷",
+        "trans1": "torpedo",
+        "sentence": "打雷了。",
+        "trans2": "It is thunder.",
+        "res": "thunder",
+        "spell": "[léi]"
+    },
+    {
+        "word": "rain",
+        "chinese": "雨",
+        "terms": "暴雨",
+        "trans1": "rainstorm",
+        "sentence": "避雨",
+        "trans2": "seek shelter from the rain",
+        "res": "rain",
+        "spell": "[yǔ]"
+    },
+    {
+        "word": "snow",
+        "chinese": "雪",
+        "terms": "积雪",
+        "trans1": "bear snow",
+        "sentence": "雪耻",
+        "trans2": "avenge an insult；wipe out a humiliation",
+        "res": "snow",
+        "spell": "[xuě]"
+    },
+    {
+        "word": "cloud",
+        "chinese": "云",
+        "terms": "浮云",
+        "trans1": "floating cloud",
+        "sentence": "人云亦云",
+        "trans2": "repeat what others say",
+        "res": "cloud",
+        "spell": "[yún]"
+    },
+    {
+        "word": "wind",
+        "chinese": "风",
+        "terms": "风筝",
+        "trans1": "kite",
+        "sentence": "风言风语",
+        "trans2": "slanderous gossip",
+        "res": "wind",
+        "spell": "[fēng]"
+    },
+    {
+        "word": "book",
+        "chinese": "书",
+        "terms": "书信",
+        "trans1": "letter",
+        "sentence": "书写",
+        "trans2": "write",
+        "res": "book",
+        "spell": "[shū]"
+    },
+    {
+        "word": "paper",
+        "chinese": "纸",
+        "terms": "报纸",
+        "trans1": "newspaper",
+        "sentence": "一张纸",
+        "trans2": "a sheet of paper",
+        "res": "paper",
+        "spell": "[zhǐ]"
+    },
+    {
+        "word": "pen",
+        "chinese": "笔",
+        "terms": "铅笔",
+        "trans1": "pencil",
+        "sentence": "妙笔生花",
+        "trans2": "brilliant writing",
+        "res": "pen",
+        "spell": "[bǐ]"
+    },
+    {
+        "word": "net",
+        "chinese": "网",
+        "terms": "渔网",
+        "trans1": "Internet",
+        "sentence": "他网了许多蝴蝶。",
+        "trans2": "He netted a lot of butterflies.",
+        "res": "net",
+        "spell": "[wǎng]"
+    },
+    {
+        "word": "fruit",
+        "chinese": "果",
+        "terms": "鲜果",
+        "trans1": "fresh fruit",
+        "sentence": "食不果腹",
+        "trans2": "cannot fill one's stomach",
+        "res": "fruit",
+        "spell": "[guǒ]"
+    },
+    {
+        "word": "flower",
+        "chinese": "花",
+        "terms": "浪花",
+        "trans1": "spray",
+        "sentence": "雪花在空中飞舞。",
+        "trans2": "Snowflakes are dancing in the air.",
+        "res": "flower",
+        "spell": "[huā]"
+    },
+    {
+        "word": "number",
+        "chinese": "数",
+        "terms": "数学",
+        "trans1": "math",
+        "sentence": "数数",
+        "trans2": "count numbers",
+        "res": "number",
+        "spell": "[shù]"
+    },
+    {
+        "word": "electricity",
+        "chinese": "电",
+        "terms": "电话",
+        "trans1": "telephone",
+        "sentence": "贺电",
+        "trans2": "congratulatory telegram",
+        "res": "electricity",
+        "spell": "[diàn]"
+    },
+    {
+        "word": "bird",
+        "chinese": "鸟",
+        "terms": "雏鸟",
+        "trans1": "baby bird",
+        "sentence": "鸟巢",
+        "trans2": "bird nest",
+        "res": "bird",
+        "spell": "[niǎo]"
+    },
+    {
+        "word": "chicken",
+        "chinese": "鸡",
+        "terms": "母鸡",
+        "trans1": "hen",
+        "sentence": "小鸡很可爱。",
+        "trans2": "Chicks are cute.",
+        "res": "chicken",
+        "spell": "[jī]"
+    },
+    {
+        "word": "cattle",
+        "chinese": "牛",
+        "terms": "公牛",
+        "trans1": "bull",
+        "sentence": "我每天都喝牛奶。",
+        "trans2": "I drink milk everyday.",
+        "res": "cattle",
+        "spell": "[niú]"
+    },
+    {
+        "word": "sheep",
+        "chinese": "羊",
+        "terms": "山羊",
+        "trans1": "goat",
+        "sentence": "羊在吃草。",
+        "trans2": "Sheep are grazing.",
+        "res": "sheep",
+        "spell": "[yáng]"
+    },
+    {
+        "word": "white",
+        "chinese": "白",
+        "terms": "白鸽",
+        "trans1": "white pigeon",
+        "sentence": "白费力气",
+        "trans2": "labour without results",
+        "res": "white",
+        "spell": "[bái]"
+    },
+    {
+        "word": "black",
+        "chinese": "黑",
+        "terms": "黑发",
+        "trans1": "black hair",
+        "sentence": "天黑了。",
+        "trans2": "It's dark.",
+        "res": "black",
+        "spell": "[hēi]"
+    },
+    {
+        "word": "red",
+        "chinese": "红",
+        "terms": "红布",
+        "trans1": "red cloth",
+        "sentence": "开门红",
+        "trans2": "get off to a good start",
+        "res": "red",
+        "spell": "[hóng]"
+    },
+    {
+        "word": "yellow",
+        "chinese": "黄",
+        "terms": "黄河",
+        "trans1": "the Yellow River",
+        "sentence": "那笔买卖黄了。",
+        "trans2": "The deal is off.",
+        "res": "yellow",
+        "spell": "[huáng]"
+    },
+    {
+        "word": "green",
+        "chinese": "绿",
+        "terms": "绿草",
+        "trans1": "green grass",
+        "sentence": "龙井绿茶很好喝。",
+        "trans2": "Longjing green tea tastes very good.",
+        "res": "green",
+        "spell": "[lǜ]"
+    },
+    {
+        "word": "blue",
+        "chinese": "蓝",
+        "terms": "蔚蓝",
+        "trans1": "sky blue",
+        "sentence": "她把天涂上蓝色。",
+        "trans2": "She painted the sky blue.",
+        "res": "blue",
+        "spell": "[lán]"
+    },
+    {
+        "word": "time",
+        "chinese": "时",
+        "terms": "时差",
+        "trans1": "time difference",
+        "sentence": "时来运转",
+        "trans2": "Every dog has his day.",
+        "res": "time",
+        "spell": "[shí]"
+    },
+    {
+        "word": "home",
+        "chinese": "家",
+        "terms": "家庭",
+        "trans1": "family",
+        "sentence": "千家万户",
+        "trans2": "thousands of households",
+        "res": "home",
+        "spell": "[jiā]"
+    },
+    {
+        "word": "sun",
+        "chinese": "日",
+        "terms": "日历",
+        "trans1": "calendar",
+        "sentence": "旭日东升",
+        "trans2": "The red sun rises from the east.",
+        "res": "sun",
+        "spell": "[rì]"
+    },
+    {
+        "word": "face",
+        "chinese": "面",
+        "terms": "面条",
+        "trans1": "noodle",
+        "sentence": "面面相觑",
+        "trans2": "look at each other in speechless despair",
+        "res": "face",
+        "spell": "[miàn]"
+    },
+    {
+        "word": "square",
+        "chinese": "方",
+        "terms": "方桌",
+        "trans1": "square table",
+        "sentence": "天各一方",
+        "trans2": "be scattered to the four corners of the earth",
+        "res": "square",
+        "spell": "[fāng]"
+    },
+    {
+        "word": "circle",
+        "chinese": "圆",
+        "terms": "椭圆",
+        "trans1": "ellipse",
+        "sentence": "无规矩不成方圆",
+        "trans2": "Nothing can be accomplished without norms or standards.",
+        "res": "circle",
+        "spell": "[yuán]"
+    },
+    {
+        "word": "cup",
+        "chinese": "杯",
+        "terms": "纸杯",
+        "trans1": "dixie cup",
+        "sentence": "杯水车薪",
+        "trans2": "an utterly inadequate method in dealing with a severe situation",
+        "res": "cup",
+        "spell": "[bēi]"
+    },
+    {
+        "word": "hand",
+        "chinese": "手",
+        "terms": "手镯",
+        "trans1": "bracelet",
+        "sentence": "他有一双好看的手。",
+        "trans2": "He has nice hands.",
+        "res": "hand",
+        "spell": "[shǒu]"
+    },
+    {
+        "word": "road",
+        "chinese": "路",
+        "terms": "迷路",
+        "trans1": "get lost",
+        "sentence": "读万卷书，行万里路",
+        "trans2": "Read ten thousand books, travel ten thousand miles.",
+        "res": "road",
+        "spell": "[lù]"
+    },
+    {
+        "word": "doctor",
+        "chinese": "医",
+        "terms": "医院",
+        "trans1": "hospital",
+        "sentence": "死马当活马医",
+        "trans2": "make every possible effort",
+        "res": "doctor",
+        "spell": "[yī]"
+    },
+    {
+        "word": "chess",
+        "chinese": "棋",
+        "terms": "棋盘",
+        "trans1": "chessboard",
+        "sentence": "星罗棋布",
+        "trans2": "Scattered all over like stars in the sky or men on a chessboard.",
+        "res": "chess",
+        "spell": "[qí]"
+    },
+    {
+        "word": "painting",
+        "chinese": "画",
+        "terms": "画像",
+        "trans1": "portrayal",
+        "sentence": "画龙点睛",
+        "trans2": "bring out the crucial point",
+        "res": "painting",
+        "spell": "[huà]"
+    },
+    {
+        "word": "window",
+        "chinese": "窗",
+        "terms": "窗帘",
+        "trans1": "curtain",
+        "sentence": "窗明几净",
+        "trans2": "bright windows and spotless desks",
+        "res": "window",
+        "spell": "[chuāng]"
+    },
+    {
+        "word": "bed",
+        "chinese": "床",
+        "terms": "起床",
+        "trans1": "get up",
+        "sentence": "叠床架屋",
+        "trans2": "be repetitious",
+        "res": "bed",
+        "spell": "[chuáng]"
+    },
+    {
+        "word": "lamp",
+        "chinese": "灯",
+        "terms": "路灯",
+        "trans1": "street lamp",
+        "sentence": "灯蛾扑火",
+        "trans2": "A moth flying into fire–bring destruction upon oneself.",
+        "res": "lamp",
+        "spell": "[dēng]"
+    }
+]

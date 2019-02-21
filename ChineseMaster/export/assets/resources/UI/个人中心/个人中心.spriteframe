@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "个人中心",
+    "texture": "assets/resources/UI/个人中心/个人中心.png",
+    "rect": [
+      0,
+      0,
+      1163,
+      2057
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1163,
+      2057
+    ]
+  }
+}

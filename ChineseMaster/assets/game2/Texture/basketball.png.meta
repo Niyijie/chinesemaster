@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2e0911d1-1dc3-4e7f-bf20-3cc99d039294",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "basketball": {
+      "ver": "1.0.3",
+      "uuid": "89ed697f-fa69-4f1c-b1af-84664dae34dd",
+      "rawTextureUuid": "2e0911d1-1dc3-4e7f-bf20-3cc99d039294",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -13.5,
+      "trimX": 11,
+      "trimY": 27,
+      "width": 281,
+      "height": 205,
+      "rawWidth": 301,
+      "rawHeight": 232,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,18 @@
+[{
+    "word": "sky",
+    "chinese": "天",
+    "terms": "白天",
+    "trans1": "day",
+    "sentence": "前几天",
+    "trans2": "A few days ago",
+    "res": "image/sky"
+},
+{
+    "word": "land",
+    "chinese": "地",
+    "terms": "地球",
+    "trans1": "the earth",
+    "sentence": "全国各地",
+    "trans2": "All parts of the country",
+    "res": "image/land"
+}]

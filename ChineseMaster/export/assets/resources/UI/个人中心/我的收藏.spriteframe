@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "我的收藏",
+    "texture": "assets/resources/UI/个人中心/我的收藏.png",
+    "rect": [
+      444,
+      738,
+      533,
+      142
+    ],
+    "offset": [
+      -234.5,
+      -100.5
+    ],
+    "originalSize": [
+      1890,
+      1417
+    ]
+  }
+}

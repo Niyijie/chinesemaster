@@ -1,0 +1,50 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bubble1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -520,
+            -535
+          ],
+          "motionPath": [
+            [
+              -520,
+              -119,
+              -520,
+              -345,
+              -520,
+              33
+            ],
+            [
+              -520,
+              338,
+              -674,
+              171,
+              -356,
+              485
+            ]
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            -520,
+            611
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

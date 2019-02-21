@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9ba627da-4242-4853-afa7-d2434b4fc411",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "folkTea": {
+      "ver": "1.0.3",
+      "uuid": "f37e1330-867e-4a12-bd8b-7f584dc4f898",
+      "rawTextureUuid": "9ba627da-4242-4853-afa7-d2434b4fc411",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 500,
+      "height": 333,
+      "rawWidth": 500,
+      "rawHeight": 333,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

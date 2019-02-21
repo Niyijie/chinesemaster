@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wonderful",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "27999607-24b9-4bca-911e-6666eebdf4fb"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "69385199-bc82-47de-9a90-ad6e431bec99"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "1f17bd33-0bc8-4eb4-be62-1936ae0e33dd"
+            }
+          },
+          {
+            "frame": 0.9166666666666666,
+            "value": {
+              "__uuid__": "7e0d89af-7306-406e-af8e-d44b1cc64232"
+            }
+          },
+          {
+            "frame": 0.9583333333333334,
+            "value": null
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.3,
+            "y": 0.3
+          }
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

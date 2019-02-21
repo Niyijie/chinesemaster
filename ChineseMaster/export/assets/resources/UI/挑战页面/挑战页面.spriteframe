@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "挑战页面",
+    "texture": "assets/resources/UI/挑战页面/挑战页面.png",
+    "rect": [
+      0,
+      0,
+      864,
+      1536
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      864,
+      1536
+    ]
+  }
+}

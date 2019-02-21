@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mermaidM",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d8b5ec1c-e29a-4a19-94f2-b49c4df9d574"
+            }
+          },
+          {
+            "frame": 0.5833333333333334,
+            "value": {
+              "__uuid__": "3b98dec5-c6fc-4cea-b413-b782a22391f9"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "3b98dec5-c6fc-4cea-b413-b782a22391f9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

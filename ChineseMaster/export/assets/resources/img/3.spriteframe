@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3",
+    "texture": "assets/resources/img/3.png",
+    "rect": [
+      912,
+      573,
+      362,
+      320
+    ],
+    "offset": [
+      148,
+      -24.5
+    ],
+    "originalSize": [
+      1890,
+      1417
+    ]
+  }
+}

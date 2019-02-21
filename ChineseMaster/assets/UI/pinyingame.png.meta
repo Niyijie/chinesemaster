@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dc1cac8e-c21b-49ca-b74f-971dfe41a1fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pinyingame": {
+      "ver": "1.0.3",
+      "uuid": "73040e93-f734-4de8-a9e6-659f045d6825",
+      "rawTextureUuid": "dc1cac8e-c21b-49ca-b74f-971dfe41a1fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 19,
+      "trimX": 160,
+      "trimY": 90,
+      "width": 342,
+      "height": 151,
+      "rawWidth": 658,
+      "rawHeight": 369,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

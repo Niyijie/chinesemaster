@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e393e8b3-0a7d-4652-a9d1-efcc66bde810",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "folk tea story": {
+      "ver": "1.0.3",
+      "uuid": "4456726e-78f8-47c4-b780-cd969d23d358",
+      "rawTextureUuid": "e393e8b3-0a7d-4652-a9d1-efcc66bde810",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 94,
+      "offsetY": 380,
+      "trimX": 382,
+      "trimY": 252,
+      "width": 288,
+      "height": 272,
+      "rawWidth": 864,
+      "rawHeight": 1536,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

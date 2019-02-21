@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "词组练习",
+    "texture": "assets/resources/UI/词组练习/词组练习.png",
+    "rect": [
+      0,
+      0,
+      864,
+      1536
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      864,
+      1536
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 16,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 559
+        },
+        {
+          "frame": 8,
+          "value": -563
+        },
+        {
+          "frame": 16,
+          "value": 559
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 7.916666666666667,
+          "value": 1
+        },
+        {
+          "frame": 8,
+          "value": -1
+        },
+        {
+          "frame": 15.916666666666666,
+          "value": -1
+        },
+        {
+          "frame": 16,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ferrisWheel01",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4,
+  "sample": 60,
+  "speed": 0.4,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 4,
+          "value": -360
+        }
+      ]
+    }
+  },
+  "events": []
+}

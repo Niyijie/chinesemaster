@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "middle02",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0c7f1a5d-48a7-483a-87c6-39b95c100c8f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

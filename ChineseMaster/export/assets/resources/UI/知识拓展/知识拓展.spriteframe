@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "知识拓展",
+    "texture": "assets/resources/UI/知识拓展/知识拓展.png",
+    "rect": [
+      0,
+      0,
+      864,
+      1536
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      864,
+      1536
+    ]
+  }
+}
